@@ -35,7 +35,3 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 **Answer:** I really like the iOS app development so far. It's neat and easy to start working on it. I am looking forward to this class more than before. 
 **Outlet** is a connection created between interface and an object in the storyboard which is established when file is loaded. As the name implies, it's an outlet to display a value referred in the code in the storyboard. 
 **Action** It's a type of method that defines what should be done if a particular event/action occurs. It defines the evemt type, sender of the event and receiver.
-
-**Question 2**: "Swift uses [Automatic Reference Counting](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html#//apple_ref/doc/uid/TP40014097-CH20-ID49) (ARC), which is not a garbage collector, to manage memory. Can you explain how you can get a strong reference cycle for closures? (There's a section explaining this concept in the link, how would you summarize as simply as possible?)"
-
-**Answer:** 
